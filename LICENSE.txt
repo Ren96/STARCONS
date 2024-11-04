@@ -1,0 +1,12 @@
+# Custom License: Personal Use Only, No Redistribution
+
+This project is licensed for personal and non-commercial use only. By using this project, you agree to the following terms:
+
+1. **Personal and Educational Use Only**: You may use, modify, and build upon the contents of this repository for personal, educational, or research purposes.
+   
+2. **No Redistribution**: You may not distribute, share, publish, or sublicense this material, in either its original or modified form, without explicit permission from the author.
+
+3. **No Commercial Use**: You may not use any part of this repository for commercial purposes, including but not limited to commercial applications, monetized websites, or paid services.
+
+4. **Attribution**: If you use or display this project in any way, you must give proper credit to the original author.
+
