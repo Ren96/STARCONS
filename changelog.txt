@@ -1,10 +1,13 @@
 v1.1
 Added 8 New Buttons
--Microphone
--Microphone Mute
--Thruster
--Thruster VTOL
--FOIP
+- Microphone
+- Microphone Mute
+- Thruster
+- Thruster VTOL
+- FOIP
+- WIND FOLD
+- EXT. (EXTEND)
+- RETR. (RETRACT)
 
 v1.0
 Initial Release
