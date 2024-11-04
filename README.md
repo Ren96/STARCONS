@@ -9,7 +9,7 @@ making it easy to edit and make your own.
 As of release (v1.0) there are currently 129 buttons, This number will continue to grow as more are added in later versions.
 
 STARCONS is constantly being updated with new buttons/icons, 
-So if you want me to add a new button please make a request using the issues page (https://github.com/Ren96/STARCONS/issues).
+So if you want me to add a new button please make a request using the discussions page (https://github.com/Ren96/STARCONS/discussions).
 
 ![Buttons](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/Buttons.png)
 
