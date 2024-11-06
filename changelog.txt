@@ -5,7 +5,7 @@ Added 8 New Buttons
 - Thruster
 - Thruster VTOL
 - FOIP
-- WIND FOLD
+- WING FOLD
 - EXT. (EXTEND)
 - RETR. (RETRACT)
 
