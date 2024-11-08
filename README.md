@@ -6,12 +6,10 @@ The Buttons come in a default white color with additional themes based on in-gam
 The buttons are available in both SVG and PNG (288px) formats and icons are also available with no button border 
 making it easy to edit and make your own.
 
-As of release (v1.0) there are currently 129 buttons, This number will continue to grow as more are added in later versions.
-
 STARCONS is constantly being updated with new buttons/icons, 
 So if you want me to add a new button please make a request using the discussions page (https://github.com/Ren96/STARCONS/discussions).
 
-**Button count as of v1.1: 139**
+**Button count as of v1.2: 138**
 
 ![Buttons](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/Buttons.png)
 
