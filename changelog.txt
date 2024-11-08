@@ -1,3 +1,19 @@
+v1.2
+Renamed a lot of buttons to better organize them.
+Rescaled some icons.
+Reworked systems quantum icon to look more like the one in-game & The UEC icon.
+
+Added 9 New Buttons
+- Quantum
+- Hydrogen
+- Target Auto
+- Systems Tractor Beam
+- NAV & SCM SCN
+- SCM GUN
+- SCM MSL
+- Refresh
+- Ammo Repack
+
 v1.1
 Added 8 New Buttons
 - Microphone
